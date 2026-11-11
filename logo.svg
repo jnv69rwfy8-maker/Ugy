@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Matrix Studio Pro">
+ <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d6b36a"/><stop offset="1" stop-color="#48d6c2"/></linearGradient><filter id="s"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+ <rect x="5" y="5" width="118" height="118" rx="25" fill="#0c1728" stroke="#d6b36a" stroke-width="2"/>
+ <path d="M25 37 64 17l39 20v54l-39 20-39-20z" fill="none" stroke="url(#g)" stroke-width="3" filter="url(#s)"/>
+ <path d="M39 83V45h10l15 22 15-22h10v38H78V62L64 82 50 62v21z" fill="url(#g)"/>
+ <path d="M25 64h14M89 64h14M64 17v17M64 94v17" stroke="#d6b36a" stroke-width="2" stroke-linecap="round"/>
+</svg>

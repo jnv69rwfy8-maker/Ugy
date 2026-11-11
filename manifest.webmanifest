@@ -1,0 +1,17 @@
+{
+  "name": "MATRIX STUDIO PRO",
+  "short_name": "MATRIX STUDIO PRO",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#090f1d",
+  "theme_color": "#101a2d",
+  "description": "Personal offline development workspace",
+  "icons": [
+    {
+      "src": "logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
